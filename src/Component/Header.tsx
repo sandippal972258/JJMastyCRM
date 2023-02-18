@@ -6,7 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 interface IHeaderProps {
 }
-
+console.log('test');
 const Header: React.FunctionComponent<IHeaderProps> = (props) => {
   return (
     <>
